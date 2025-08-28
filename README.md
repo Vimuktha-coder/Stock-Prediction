@@ -11,6 +11,13 @@ This project predicts stock prices using historical data and machine learning mo
 - Visualizes predicted vs actual stock prices
 - Modular and easy-to-extend architecture
 
+Example output:
+
+<img width="958" height="545" alt="image" src="https://github.com/user-attachments/assets/092dcc4a-e5b8-498f-b642-ea6f4fc52967" />
+
+<img width="958" height="600" alt="image" src="https://github.com/user-attachments/assets/fde4e280-c030-438c-a43d-336c698f170f" />
+
+
 ---
 
 ## Project Structure
